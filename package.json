@@ -1,0 +1,16 @@
+{
+  "name": "mandatemap",
+  "version": "1.0.0",
+  "description": "MandateMap — the e-invoicing readiness cockpit for European SMEs.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
